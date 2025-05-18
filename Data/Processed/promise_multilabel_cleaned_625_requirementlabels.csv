@@ -1,0 +1,626 @@
+SoftwareRequirement,Type,FunctionalityLabels
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
+The system shall authenticate users before accessing secure features.,NFR,"[Security, Usability]"
+The application should respond within 2 seconds.,NFR,[Performance]
+All data must be encrypted during transmission.,NFR,[Security]
+Users shall be able to reset their password via email.,FR,[Usability]
+The interface must comply with accessibility standards.,NFR,[Accessibility]
