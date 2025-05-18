@@ -76,7 +76,19 @@ Our experiments show that while individual models like RoBERTa and DeBERTa demon
 
 For detailed results, please refer to the `Promise_results/`, `Promise_exp_results/`, and `2phase_pipeline_results/` directories.
 
+## Citation
 
+If you use this code or find our research helpful, please cite our paper:
+
+```
+@inproceedings{kc2025multi,
+  title={Multi-Level Software Requirements Classification: Assessing BERT Variants and their Hybrid Models},
+  author={KC, Aryan and Shah, Unnati},
+  booktitle={Proceedings of the 37th International Conference on Software Engineering and Knowledge Engineering (SEKE)},
+  year={2025},
+  organization={KSI Research}
+}
+``
 
 ## License
 
@@ -86,3 +98,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - We thank the creators of the PROMISE and PROMISE_EXP datasets for making their data publicly available.
 - This research was conducted at Utica University.
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15459346.svg)](https://doi.org/10.5281/zenodo.15459346)
+
