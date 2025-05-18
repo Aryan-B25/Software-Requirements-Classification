@@ -1,0 +1,11 @@
+               precision    recall  f1-score   support
+
+Accessibility       1.00      1.00      1.00        23
+  Performance       1.00      1.00      1.00        22
+     Security       1.00      1.00      1.00        58
+    Usability       1.00      1.00      1.00        56
+
+    micro avg       1.00      1.00      1.00       159
+    macro avg       1.00      1.00      1.00       159
+ weighted avg       1.00      1.00      1.00       159
+  samples avg       1.00      1.00      1.00       159
