@@ -27,7 +27,7 @@ This research evaluates six transformer-based models (BERT, SBERT, RoBERTa, NorB
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/Software-Requirements-Classification.git
+git clone https://github.com/Aryan-B25/Software-Requirements-Classification.git
 cd Software-Requirements-Classification
 
 # Create and activate a virtual environment (optional but recommended)
