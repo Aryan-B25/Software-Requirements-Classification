@@ -16,12 +16,12 @@ This research evaluates six transformer-based models (BERT, SBERT, RoBERTa, NorB
 
 ## Repository Structure
 
-- `data/`: Contains raw and processed datasets
-- `src/`: Source code for data preprocessing, models, training, and evaluation
-- `experiments/`: Configuration files for experiments
-- `results/`: Experimental results and metrics
-- `models/`: Saved model checkpoints
-- `docs/`: Additional documentation, including the research paper
+- `src/`: Source code for all models, including data preprocessing, training, and evaluation
+- `Data/`: Contains raw and processed datasets
+- `Promise_results/`: Experimental results for the PROMISE dataset
+- `Promise_exp_results/`: Experimental results for the Extended PROMISE dataset
+- `2phase_pipeline_results/`: Results from the two-phase RoBERTa pipeline
+- `requirements.txt`: List of Python dependencies
 
 ## Installation
 
@@ -43,38 +43,38 @@ pip install -r requirements.txt
 ### Data Preprocessing
 
 ```bash
-python -m src.data.preprocessing --input data/raw/promise_NFR.csv --output data/processed/promise_processed.csv
+python src/preprocessing.py --input Data/promise_NFR.csv --output Data/promise_processed.csv
 ```
 
 ### Training Individual Models
 
 ```bash
-python -m src.training.train --config experiments/individual_models/roberta_config.json
+python src/train_model.py --model roberta --dataset Data/promise_processed.csv
 ```
 
 ### Training Hybrid Models
 
 ```bash
-python -m src.training.train --config experiments/hybrid_models/roberta_deberta_config.json
+python src/train_hybrid.py --models roberta,deberta --dataset Data/promise_processed.csv
 ```
 
 ### Evaluation
 
 ```bash
-python -m src.evaluation.metrics --model_dir models/individual/roberta --test_file data/processed/promise_processed.csv
+python src/evaluate.py --model_dir src/models/roberta --test_file Data/promise_processed.csv
 ```
 
 ### Running the Two-Phase Pipeline
 
 ```bash
-python -m src.models.two_phase_pipeline --data data/processed/promise_processed.csv
+python src/two_phase_pipeline.py --data Data/promise_processed.csv
 ```
 
 ## Results
 
 Our experiments show that while individual models like RoBERTa and DeBERTa demonstrate strong performance (Macro F1 up to 0.5545 on PROMISE_EXP for RoBERTa), the RoBERTa–DeBERTa hybrid achieves superior results with a Macro F1-score of 0.6315 on the PROMISE dataset. Additionally, the two-phase RoBERTa pipeline attains perfect accuracy in distinguishing functional from non-functional requirements.
 
-For detailed results, please refer to the `results/` directory or the research paper in `docs/paper.pdf`.
+For detailed results, please refer to the `Promise_results/`, `Promise_exp_results/`, and `2phase_pipeline_results/` directories.
 
 
 
